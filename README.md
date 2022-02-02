@@ -8,7 +8,7 @@
 - 🤔: I’m looking for remote jobs! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: She/Her
-- ⚡  Real Love: Investing on myself, Mentoring my seniors, Taking personal development trainings, Listening to Music.
+- ⚡  Real Love: Investing on myself, Mentoring my juniors, Taking personal development trainings, Listening to Music.
   
 <Br>
 <h4>GitHub Stats! 📊</h4>

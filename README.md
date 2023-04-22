@@ -4,7 +4,7 @@
 <h1>About Me! 😎</h1>
 
 - 🔭: I’m currently working on Web development and small ML projects.
-- 🌱: I’m currently learning full stack web development.💻
+- 🌱: I’m currently learning Data Science.💻
 - 🤔: I’m looking for remote jobs! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: She/Her
